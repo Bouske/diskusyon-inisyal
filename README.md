@@ -8,5 +8,9 @@ Mwen enterese kreye avèk kolaborasyon, gid, èd, ak sipò zanmi pre kou zanmi l
 
 Mwen envite nou kolabore, gide, ede, sipòte projè sa a, jan nou kapab.
 
+
+
+
+
 J. Tipan Verella
 2019-01-07, Dèlma 95, Ayiti.
