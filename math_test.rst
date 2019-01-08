@@ -1,4 +1,7 @@
-.. role:: raw-latex(raw)
-    :format: latex
 
-The area of a circle is :raw-latex:`$\pi r^2$`, and that is good!
+.. math::
+    :nowrap:
+        \begin{eqnarray}
+            y    & = & ax^2 + bx + c \\
+            f(x) & = & x^2 + 2xy + y^2
+        \end{eqnarray}
